@@ -13,6 +13,8 @@
 ```
 
 # Usage
+```
 $ o mydata.txt
 $ o mypicture.jpg
 $ o mymovie.mp4
+```
